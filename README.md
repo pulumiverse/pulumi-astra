@@ -1,5 +1,7 @@
 # Datastax Astra Provider
 
+⚠️ **NOT currently MAINTAINED: I do not need this package anymore. [Astra team does not have resources to support it](https://github.com/datastax/terraform-provider-astra/issues/437#issuecomment-2852486834). If you want to support it please reach out to [pulumiverse board members](https://github.com/pulumiverse/.github/blob/main/governance/board.md)**
+
 This provider lets you manage [Datastax Astra](https://astra.datastax.com/) resources.
 
 ## Installing
